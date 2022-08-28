@@ -1,0 +1,15 @@
+/Users/treetop7/MiPrimeraApp/bin/Debug/net6.0/MiPrimeraApp
+/Users/treetop7/MiPrimeraApp/bin/Debug/net6.0/MiPrimeraApp.deps.json
+/Users/treetop7/MiPrimeraApp/bin/Debug/net6.0/MiPrimeraApp.runtimeconfig.json
+/Users/treetop7/MiPrimeraApp/bin/Debug/net6.0/MiPrimeraApp.dll
+/Users/treetop7/MiPrimeraApp/bin/Debug/net6.0/MiPrimeraApp.pdb
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.csproj.AssemblyReference.cache
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.AssemblyInfoInputs.cache
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.AssemblyInfo.cs
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.csproj.CoreCompileInputs.cache
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.dll
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/refint/MiPrimeraApp.dll
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.pdb
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/MiPrimeraApp.genruntimeconfig.cache
+/Users/treetop7/MiPrimeraApp/obj/Debug/net6.0/ref/MiPrimeraApp.dll

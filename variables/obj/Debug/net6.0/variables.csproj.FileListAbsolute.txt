@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/variables/bin/Debug/net6.0/variables
+/Users/treetop7/Desktop/curso-c#/variables/bin/Debug/net6.0/variables.deps.json
+/Users/treetop7/Desktop/curso-c#/variables/bin/Debug/net6.0/variables.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/variables/bin/Debug/net6.0/variables.dll
+/Users/treetop7/Desktop/curso-c#/variables/bin/Debug/net6.0/variables.pdb
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.dll
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/refint/variables.dll
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.pdb
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/variables.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/variables/obj/Debug/net6.0/ref/variables.dll
