@@ -1,56 +1,139 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+char primeraLetraDelABC = 'A';// Representa un solo caracter
 
-// Clase de variable int
-int edad; 
-edad = 20;
+string nombre = "Enrique Agraso"; // Representa un conjunto de caracteres
+string texto = "Mi amigo me dijo una vez: \"Me caes bien\"";
+string caracterDeEscape = "En C# podemos usar \\ para escapar strings";
 
-int alturaEnCentimetros = 34;
+Console.WriteLine(primeraLetraDelABC);
+Console.WriteLine(nombre);
+Console.WriteLine(texto);
+Console.WriteLine(caracterDeEscape);
 
-int distanciaDeLaTierraAlSolEnKilometros = 15_000_000;
+// Verbating nos permite escapar sin el \ pero tenemos que poner doble comilla 
+string carta = @"A quien pueda interesar, 
 
+Estimado cliente, debe mucho dinero.
+
+Att: La administración";
+
+string directorioDelArchivo = @"C:/Mis documentos/Mi carpeta/excel.xlsx";
+
+Console.WriteLine(carta);
+
+//// Tiempo o DateTime
+DateTime ahora = DateTime.Now; // Valor del momento
+DateTime primerDiaDelAño = new DateTime(2022, 1, 1); //Valor fijo
+DateTime mañana = DateTime.Now.AddDays(1);
+
+Console.WriteLine(ahora);
+Console.WriteLine(primerDiaDelAño);
+Console.WriteLine(mañana);
+Console.WriteLine("El dia es:");
+Console.WriteLine(mañana.Day);
+
+Console.WriteLine("El dia del año es:");
+Console.WriteLine(mañana.DayOfYear);
+
+Console.WriteLine("El dia de la semana es:");
+Console.WriteLine(mañana.DayOfWeek);
+
+//// Se puede declarar una variable con var pero se tiene que terminar la linea de codigo 
+var edadDeFelipe = 999;
+var apellido = "Agraso";
+var hoy = DateTime.Now;
+var float1 = 1.9f;
+
+Console.WriteLine(edadDeFelipe);
+Console.WriteLine(apellido);
+Console.WriteLine(hoy);
+
+// Clase valores por defecto
+// Un tipo de valor puede ser nulificado si se le pone un ?
+int edad = default;
+Console.WriteLine("Valor por defecto de int: ");
 Console.WriteLine(edad);
 
-Console.WriteLine(alturaEnCentimetros);
+bool hoyEsDomingo = default;
+Console.WriteLine("Valor por defecto de bool: ");
+Console.WriteLine(hoyEsDomingo);
 
-Console.WriteLine(distanciaDeLaTierraAlSolEnKilometros);
+decimal precio = default;
+Console.WriteLine("Valor por defecto de decimal: ");
+Console.WriteLine(precio);
 
-// Clase de variables de numeros
-uint uintl = 3_000_000; // 0 hasta mas o menos 4 mil millones
+DateTime hoy1 = default;
+Console.WriteLine("Valor por defecto de DateTime: ");
+Console.WriteLine(hoy1);
 
-long long1 = 8_000_000_000_000; // -9,223,372,036,854,775,808 hasta -9,223,372,036,854,775,808 
-ulong ulong1 = 16_000_000_000_000; // 0 hasta 18,446,744,073,709,551,615
+string nombre1 = null;
+Console.WriteLine("Valor por defecto de string: ");
+// Va a dar un error
+Console.WriteLine(nombre1.ToUpper());
 
-byte bytel = 145; // 0 hasta 255
-sbyte sbytel = 100; // -128 hasta 127
+// clase de sumatoria
+var cantidad1 = 7; //// Si se le pone m se vuelve punto decimal y se aplica en todas las operaciones
+var cantidad2 = 5;
+var resultadoSuma = cantidad1 + cantidad2;
+var resultadoResta = cantidad1 - cantidad2;
+var resultadoMultiplicacion = cantidad1 * cantidad2;
+var resultadoDivision = (double) cantidad1 / cantidad2;
+var resultadoResiduo = cantidad1 % cantidad2;
 
-short shortl = 30_00; // -32,768 hasta 32,767
-ushort ushortl = 65_000; // 0 hasta 65.353
+Console.WriteLine("La suma de " + cantidad1 + " y " + cantidad2 + " es igual a: ");
+Console.WriteLine(resultadoSuma);
+Console.WriteLine("La resta es " + resultadoResta);
+Console.WriteLine("La multiplicación de " + cantidad1 + " y " + cantidad2 + " es igual a: ");
+Console.WriteLine(resultadoMultiplicacion);
+Console.WriteLine("La división es " + resultadoDivision);
+Console.WriteLine("El residuo de " + cantidad1 + " y " + cantidad2 + " es igual a: ");
+Console.WriteLine(resultadoResiduo);
 
-// Clase de numeros decimales
-float altura = 180.123456789f; // Ocupa 4 bytes; Precisión de 6 a 9 digitos
-double anchura = 45.123456789; // Ocupa 8 bytes; Precisión de 15 a 17 digitos
-decimal monto = 9.99m; // Ocupa 16 bytes; Precisión de 28 a 29 digitos (es recomendado en temas financieros)
+Console.WriteLine("La suma de " + cantidad1 + " y " + cantidad2 + " es igual a: ");
+Console.WriteLine(resultadoSuma);
 
-Console.WriteLine("La altura es");
-Console.WriteLine(altura);
-Console.WriteLine("La anchura es");
-Console.WriteLine(anchura);
-Console.WriteLine("El precio es");
-Console.WriteLine(monto);
+var nombre2 = "Enrique";
+var apellido2 = "Agraso";
 
-// Clase de si o no Funciona para tener dos decisiones 
-bool soyEnrique = true;
-bool dosMasDosEsCinco = false;
+var resultadoString = nombre2 + apellido2;
 
-// Clase de console.
+Console.WriteLine("Podemos concadenar strings con + ");
+Console.WriteLine(resultadoString);
 
-Console.WriteLine("Hello, World!");
+// Clase de sumatoria 2
+var maximo = int.MaxValue;
+var suma = checked ( maximo + 1); // Generara un error porque se sale de los valores maximos.
 
-Console.WriteLine("Yo soy Enrique Agraso; mi edades 222");
+Console.WriteLine(maximo);
+Console.WriteLine(suma);
 
-// Este es un ejemplo
-{
-    Console.WriteLine("Este codigo esta dentro de un bloque");
-}
+// Clase de suma 3 Con llaves no hace falta hacer tanta mierda
+var cantidad5 = 7;
+var cantidad6 = 4;
+var resultado = cantidad5 + cantidad6;
+var nombre5 = "Enrique";
+var apellido5 = "Agraso";
 
-Console.WriteLine("este codigo no esta en el bloque");
+Console.WriteLine ("La suma de " + cantidad5 + " y " + cantidad6 + " es igual a : " + resultado);
+Console.WriteLine ($"La suma de {cantidad5} y {cantidad6} es igual a: {resultado}");
+Console.WriteLine($"Mi nombre es {nombre5.ToUpper()} {apellido5}");
+
+var cantidad1PorMenos1 = -cantidad5; // (-1) * cantidad
+
+Console.WriteLine(cantidad1PorMenos1);
+
+cantidad5++; // Cantidad1 = cantidad1 + 1
+cantidad5--; // Cantidad1 = cantidad1 - 1
+++cantidad5; // Cantidad1 = cantidad1 + 1 aqui se evalua primero la suma y despues contra la otra cantidad
+--cantidad5; // Cantidad1 = cantidad1 - 1 aqui se evalua primero la resta y despues contra la otra cantidad
+
+var suma6 = ++cantidad5 + cantidad6;
+Console.WriteLine("suma es" + suma6);
+
+cantidad5 += cantidad6; // Esto es cantidad1 = cantidad1 + cantidad2 y se altera cantidad 1
+Console.WriteLine("Cantidad1 es" + cantidad1);
+
+cantidad5 -= cantidad6;
+Console.WriteLine("Cantidad1 regresara a su valor = " + cantidad1);
+
+
