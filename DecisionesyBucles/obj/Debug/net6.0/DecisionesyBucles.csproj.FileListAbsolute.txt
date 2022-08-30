@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/bin/Debug/net6.0/DecisionesyBucles
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/bin/Debug/net6.0/DecisionesyBucles.deps.json
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/bin/Debug/net6.0/DecisionesyBucles.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/bin/Debug/net6.0/DecisionesyBucles.dll
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/bin/Debug/net6.0/DecisionesyBucles.pdb
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.dll
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/refint/DecisionesyBucles.dll
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.pdb
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/DecisionesyBucles.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/DecisionesyBucles/obj/Debug/net6.0/ref/DecisionesyBucles.dll
