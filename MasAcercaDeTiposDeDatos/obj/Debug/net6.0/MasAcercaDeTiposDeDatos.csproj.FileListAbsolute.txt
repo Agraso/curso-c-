@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/bin/Debug/net6.0/MasAcercaDeTiposDeDatos
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/bin/Debug/net6.0/MasAcercaDeTiposDeDatos.deps.json
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/bin/Debug/net6.0/MasAcercaDeTiposDeDatos.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/bin/Debug/net6.0/MasAcercaDeTiposDeDatos.dll
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/bin/Debug/net6.0/MasAcercaDeTiposDeDatos.pdb
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.dll
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/refint/MasAcercaDeTiposDeDatos.dll
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.pdb
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/MasAcercaDeTiposDeDatos.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/MasAcercaDeTiposDeDatos/obj/Debug/net6.0/ref/MasAcercaDeTiposDeDatos.dll
