@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/Funciones/bin/Debug/net6.0/Funciones
+/Users/treetop7/Desktop/curso-c#/Funciones/bin/Debug/net6.0/Funciones.deps.json
+/Users/treetop7/Desktop/curso-c#/Funciones/bin/Debug/net6.0/Funciones.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/Funciones/bin/Debug/net6.0/Funciones.dll
+/Users/treetop7/Desktop/curso-c#/Funciones/bin/Debug/net6.0/Funciones.pdb
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.dll
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/refint/Funciones.dll
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.pdb
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/Funciones.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/Funciones/obj/Debug/net6.0/ref/Funciones.dll
