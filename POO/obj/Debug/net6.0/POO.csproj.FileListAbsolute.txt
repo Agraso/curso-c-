@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/POO/bin/Debug/net6.0/POO
+/Users/treetop7/Desktop/curso-c#/POO/bin/Debug/net6.0/POO.deps.json
+/Users/treetop7/Desktop/curso-c#/POO/bin/Debug/net6.0/POO.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/POO/bin/Debug/net6.0/POO.dll
+/Users/treetop7/Desktop/curso-c#/POO/bin/Debug/net6.0/POO.pdb
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.dll
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/refint/POO.dll
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.pdb
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/POO.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/POO/obj/Debug/net6.0/ref/POO.dll
