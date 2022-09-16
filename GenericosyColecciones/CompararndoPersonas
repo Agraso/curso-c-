@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace GenericosYColecciones
+{
+    internal class CompararandoPersonas : IComparer<Persona>
+    {
+        public int Compare(Persona? x, Persona? y)
+        {
+            if (x is null || x.Nombre1 is null)
+            {
+                throw new ArgumentNullException($"El parametro {nameof(x)} o su nombre es nulo");
+            }
+
+            if (y is null || y.Nombre1 is null)
+            {
+                throw new ArgumentNullException($"El parametro {nameof(y)} o su nombre es nulo");
+            }
+
+            return String.Compare(x.Nombre1, y.Nombre1);
+
+        }
+    }
+}

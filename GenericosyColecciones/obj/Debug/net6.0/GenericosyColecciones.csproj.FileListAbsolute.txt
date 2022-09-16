@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/bin/Debug/net6.0/GenericosyColecciones
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/bin/Debug/net6.0/GenericosyColecciones.deps.json
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/bin/Debug/net6.0/GenericosyColecciones.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/bin/Debug/net6.0/GenericosyColecciones.dll
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/bin/Debug/net6.0/GenericosyColecciones.pdb
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.dll
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/refint/GenericosyColecciones.dll
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.pdb
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/GenericosyColecciones.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/GenericosyColecciones/obj/Debug/net6.0/ref/GenericosyColecciones.dll
