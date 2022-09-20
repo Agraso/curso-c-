@@ -1,0 +1,15 @@
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/bin/Debug/net6.0/ModuloLinQ
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/bin/Debug/net6.0/ModuloLinQ.deps.json
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/bin/Debug/net6.0/ModuloLinQ.runtimeconfig.json
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/bin/Debug/net6.0/ModuloLinQ.dll
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/bin/Debug/net6.0/ModuloLinQ.pdb
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.csproj.AssemblyReference.cache
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.AssemblyInfoInputs.cache
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.AssemblyInfo.cs
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.csproj.CoreCompileInputs.cache
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.dll
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/refint/ModuloLinQ.dll
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.pdb
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ModuloLinQ.genruntimeconfig.cache
+/Users/treetop7/Desktop/curso-c#/ModuloLinQ/obj/Debug/net6.0/ref/ModuloLinQ.dll
