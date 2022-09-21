@@ -1,0 +1,4 @@
+Mensaje personalizado.
+Buenos Dias
+En esta cartate informo que la hora es 09:00:27
+bye
